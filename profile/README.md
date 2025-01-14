@@ -11,8 +11,8 @@ And here’s the best part: our solutions aren’t just about functionality—th
 
 | Name                    | Role              |
 |-------------------------|-------------------|
-| **Serhii** Toropov      | Head of Dev       |
-| **Vladyslav** Kovalskyi | Developer         |
+| **Vladyslav** Kovalskyi | Head of Dev       |
+| **Serhii** Toropov      | Developer         |
 | **Danylo** Lysyshyn     | Developer         |
 | **Vitalii** Novyk       | Developer         |
 | **Nikita** Zaika        | Developer         |
